@@ -1,0 +1,13 @@
+Hi 
+Thank you 
+my self balakrishna
+ 
+Actually i started my career as linux adminstrator then i got to chance tyo work as aws devops engineer.
+I hvae worked on multiple devops tools like version control systems git and git hub.
+build tools are ant and maven.
+sonarqube as source code quality management tool.
+nexus and jfrog are artifactory repository tools
+cicd tools are jenkins and ci.yamal file
+ansible is configuration management tool
+
+
